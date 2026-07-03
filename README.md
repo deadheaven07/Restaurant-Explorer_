@@ -2,6 +2,10 @@
 
 A production-quality Android application for discovering and searching restaurants with personalized recommendations based on user preferences and location.
 
+## 📥 Download APK
+
+[Download Latest APK](https://github.com/deadheaven07/Restaurant-Explorer_/releases/latest)
+
 ## 🚀 Architecture
 The project follows **Clean Architecture** principles with a clear separation of concerns:
 
