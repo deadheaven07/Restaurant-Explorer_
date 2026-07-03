@@ -15,6 +15,42 @@ graph TD
     DI --> API[Remote: Retrofit]
 ```
 
+## 📸 Screenshots
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://drive.google.com/file/d/1xvB-7iOh6DpYQS3_hj1EDhFgotv9G_mg/view">
+<img src="https://drive.google.com/uc?export=view&id=1xvB-7iOh6DpYQS3_hj1EDhFgotv9G_mg" width="250"/>
+</a>
+<br><br>
+<b>🏠 Main Page</b>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/1vP9ObfxDIBVo7JME0PxCMnMVSnwCAP2K/view">
+<img src="https://drive.google.com/uc?export=view&id=1vP9ObfxDIBVo7JME0PxCMnMVSnwCAP2K" width="250"/>
+</a>
+<br><br>
+<b>🔍 Search Page</b>
+</td>
+
+<td align="center">
+<a href="https://drive.google.com/file/d/1fNJf1o6n19wX7wQBmu3JOyiOVxBKBpzi/view">
+<img src="https://drive.google.com/uc?export=view&id=1fNJf1o6n19wX7wQBmu3JOyiOVxBKBpzi" width="250"/>
+</a>
+<br><br>
+<b>🔖 Bookmark Page</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
 ### 1. Presentation Layer (`presentation/`)
 - **Jetpack Compose**: Declarative UI implementation.
 - **MVVM Pattern**: ViewModels manage UI state using `StateFlow`.
@@ -78,13 +114,8 @@ com.bansi.restaurantexplorer/
 3. Sync Gradle and ensure **JDK 17+** is configured.
 4. Run the `:androidApp` configuration on an emulator or physical device.
 
-## 📸 Screenshots
-*(Place screenshots here to showcase the UI)*
-
-## 🎥 Demo
-*(Add a link to a demo video or GIF here)*
-
 ---
+
 **Built By:**
 **Harsh Raghuwanshi**
 
