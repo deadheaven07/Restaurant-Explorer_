@@ -78,6 +78,12 @@ com.bansi.restaurantexplorer/
 3. Sync Gradle and ensure **JDK 17+** is configured.
 4. Run the `:androidApp` configuration on an emulator or physical device.
 
+## 📸 Screenshots
+*(Place screenshots here to showcase the UI)*
+
+## 🎥 Demo
+*(Add a link to a demo video or GIF here)*
+
 ---
 **Built By:**
 **Harsh Raghuwanshi**
